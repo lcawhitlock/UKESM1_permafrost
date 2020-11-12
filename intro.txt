@@ -1,2 +1,2 @@
-This is a test to see how GitHub works. Now I'm adding more information to this file.
-This is where I'm putting all of the permafrost maps I've been building.
+This is a test to see how GitHub works. Now I'm adding more information to this file. 
+This is where I'm putting all of the permafrost maps I've been building. I am still not totally clear how this works.
